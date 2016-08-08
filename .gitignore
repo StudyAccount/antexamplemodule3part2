@@ -1,0 +1,8 @@
+.idea/*
+*.xml
+!build.xml
+*.iml
+build/*
+dist/*
+out/*
+
